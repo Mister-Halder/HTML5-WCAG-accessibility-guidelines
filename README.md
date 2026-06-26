@@ -1,2 +1,2 @@
 # HTML5-WCAG-accessibility-guidelines
-for understand
+for understand and better concept learning
